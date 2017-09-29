@@ -1,0 +1,22 @@
+{
+  "name": "webdriverexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benbenbenbenbenben/webdriverexample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benbenbenbenbenben/webdriverexample/issues"
+  },
+  "homepage": "https://github.com/benbenbenbenbenben/webdriverexample#readme",
+  "dependencies": {
+    "selenium-webdriver": "^3.5.0"
+  }
+}
